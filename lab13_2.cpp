@@ -21,3 +21,24 @@ int main()
     }while(s != 0 || x != 0 || y != 0);
     return 0;
 }
+
+void updateImage(bool [][M],int s,int x,int y){
+    for()
+        for()
+            if()
+
+}
+/*void showImage(const bool [][M]){
+    for()
+    cout << "-";
+    cout << "\n";
+        for(){
+        cout << "|";
+        for(){
+            if()
+            cout << "*"
+            else cout << " ";
+        }
+    cout << "|\n";
+    }
+}*/
